@@ -13,13 +13,18 @@ Coupara Used:
   
   2.Reuters Corpus
 
-1.Displayed a top ten (ranks 1 through 10) words for BOTH corpora on screen 
-2.Generated log(rank) vs log(frequency) plots for the first 1000 (ranks 1 through 1000) words for BOTH corpora 
-3.Used frequency counts obtained earlier to calculate the unigram occurrence probability for the TWO (“technical” and not technical) words
+  
+TASK 1: 
+
+  a.Displayed a top ten (ranks 1 through 10) words for BOTH corpora on screen 
+
+  b.Generated log(rank) vs log(frequency) plots for the first 1000 (ranks 1 through 1000) words for BOTH corpora 
+  
+  c.Used frequency counts obtained earlier to calculate the unigram occurrence probability for the TWO (“technical” and not technical) words
 
 
 
-TASK 1: Building a Bigram Language Model
+TASK 2: Building a Bigram Language Model
 
 1.Enter a Sentence:
   •When prompted, type a sentence of your choice and press Enter.
@@ -43,7 +48,7 @@ TASK 1: Building a Bigram Language Model
 
 
 
-TASK 2: Building a Sentence with a 2-Gram Language Model
+TASK 3: Building a Sentence with a 2-Gram Language Model
 
 1.Start with the First Word (W1):
   •When prompted, enter an initial word (W1) and press Enter.
