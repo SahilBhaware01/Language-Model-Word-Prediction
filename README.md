@@ -1,10 +1,17 @@
-Objectives:       1.Perform basic word frequency distribution analysis for a text corpus.
-                  2.Calculate probability of a sentence.
-                  3.Build Language Model word prediction.
+Objectives:       
+
+  1.Perform basic word frequency distribution analysis for a text corpus.
+                   
+  2.Calculate probability of a sentence.
+  
+  3.Build Language Model word prediction.
 
 
-Coupara Used:     1.Brown Corpus
-                  2.Reuters Corpus
+Coupara Used:     
+
+  1.Brown Corpus
+  
+  2.Reuters Corpus
 
 1.Displayed a top ten (ranks 1 through 10) words for BOTH corpora on screen 
 2.Generated log(rank) vs log(frequency) plots for the first 1000 (ranks 1 through 1000) words for BOTH corpora 
